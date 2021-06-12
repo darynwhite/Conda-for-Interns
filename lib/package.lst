@@ -1,0 +1,21 @@
+## Package      Channel
+tabulate
+webob
+colorlog
+## Linting/Formatting
+black
+pycodestyle
+## PDF/File support
+poppler
+pypdf2
+xlrd
+openpyxl
+netcdf4
+## plotting
+plotly
+## Oceanography support
+seawater
+gsw
+## Non-python support
+nodejs
+mysql
