@@ -1,6 +1,0 @@
-name: yawlMimic
-dependencies:
-  - python=2.7.13
-  - jinja2=2.9.4
-  - matplotlib=2.0.0
-  - pandas=0.19.2

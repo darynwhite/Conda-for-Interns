@@ -9,4 +9,3 @@ conda init bash
 conda update -y conda
 conda env update -f envBase.yml
 source ${pkgInstall} ${pkgs}
-# conda env create -f envPy2.yml

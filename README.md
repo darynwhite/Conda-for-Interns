@@ -8,13 +8,9 @@ bash condaFromScratch.sh
 ```
 conda env update -f envBase.yml
 ```
-#### Creating a Python 2 environment from this source file
-```
-conda create env -f envPy2.yml
-```
 #### Using the config example file as .condarc config file
 ```
-cp configBas ~/.condarc
+cp configBase ~/.condarc
 ```
 
 ## Some Conda Resources
