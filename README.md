@@ -1,4 +1,8 @@
 # Desktop setup of Conda environment
+*This repository and code were developed using macOS and have not been tested in other environments.*
+
+Please reach out to @darynwhite if you are having any problems
+
 ## Using this package to install MiniConda in a bash terminal
 #### Fresh install via script only
 ```
